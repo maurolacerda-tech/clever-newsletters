@@ -1,7 +1,6 @@
 @extends('admin.layout.default')
 
 @section('content')
-
 <div class="page-header">
     <div class="row align-items-end">
         <div class="col-lg-8">

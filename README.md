@@ -22,4 +22,3 @@ Para públicar os arquivos de configurações.
 ```
 php artisan vendor:publish --provider="Modules\Newsletters\Providers\NewsletterServiceProvider" --tag=config
 ```
-

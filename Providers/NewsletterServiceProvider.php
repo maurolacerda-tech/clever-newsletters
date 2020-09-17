@@ -32,7 +32,6 @@ class NewsletterServiceProvider extends ServiceProvider
         $this->mergeConfigFrom(
             __DIR__.'/../Config/newsletters.php',
             'newsletters'
-        );
-        
+        );        
     }
 }

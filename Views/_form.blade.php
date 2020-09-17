@@ -1,5 +1,4 @@
 {{ Form::hidden('menu_id', $menu_id) }}
-
 <div class="row">
     <div class="col-sm-12">
         <div class="form-group">

@@ -16,7 +16,6 @@ use Modules\Newsletters\Http\Requests\NewsletterRequest;
 
 class NewslettersController extends Controller
 {
-
     protected $menu_id;
     protected $menu_icon;
     protected $menu_name;

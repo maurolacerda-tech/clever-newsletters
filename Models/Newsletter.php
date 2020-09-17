@@ -1,5 +1,4 @@
 <?php
-
 namespace Modules\Newsletters\Models;
 
 use Illuminate\Database\Eloquent\Model;

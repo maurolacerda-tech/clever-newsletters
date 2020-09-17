@@ -26,7 +26,6 @@ class CreateNewslettersTable extends Migration
             $table->timestamps();
         });
     }
-
     /**
      * Reverse the migrations.
      *

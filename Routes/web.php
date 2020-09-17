@@ -1,7 +1,6 @@
 <?php
 use App\Models\Menu;
 
-
 Route::prefix('panel')->middleware('auth')->group(function () {
 
     $menu = new Menu;
